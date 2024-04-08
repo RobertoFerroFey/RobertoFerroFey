@@ -10,7 +10,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-fb8631bd-f894-4c4c-82bf-6fb0faf263d0/)
 
 <h2>🖥️  Basic Python Projects:</h2>
 
