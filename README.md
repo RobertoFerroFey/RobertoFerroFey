@@ -10,6 +10,7 @@
 
 <h2>📄 Certifications </h2>
 
+- [DATA SCIENCE AND MACHINE LEARNING: MAKING DATA-DRIVEN DECISIONS BY MIT IDSS](https://www.mygreatlearning.com/certificate/UGCJBJHK)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-fb8631bd-f894-4c4c-82bf-6fb0faf263d0/)
 
 <h2>🖥️  Basic Python Projects:</h2>
